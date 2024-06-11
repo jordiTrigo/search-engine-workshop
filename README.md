@@ -1,5 +1,7 @@
 # Build Your Own Search Engine
 
+Youtube: https://www.youtube.com/watch?v=nMrGK5QgPVE
+
 Code for the "Build Your Own Search Engine" workshop
 
 Register here: https://lu.ma/jsyob4df
